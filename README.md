@@ -20,14 +20,6 @@ The sketch is designed to be abstract but still readable within ~15 minutes of a
 - Prints `minute()` to the JavaScript console **only when the minute changes**
 - Hosted as a static site (GitHub Pages)
 
-## Run Locally
+## Access
 
-Option A: open the file directly  
-- Open `index.html` in your browser.
-
-Option B: use a simple local server (recommended)  
-If you have Python installed:
-
-```bash
-python -m http.server 8000
-
+Visit https://nancycly.github.io/DataViz-Liquid-Clock/
